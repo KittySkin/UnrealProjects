@@ -51,6 +51,12 @@
     <ClInclude Include="..\..\Source\SimpleShooter\MyPawn.h">
       <Filter>Source\SimpleShooter</Filter>
     </ClInclude>
+    <ClCompile Include="..\..\Source\SimpleShooter\ShooterCharacter.cpp">
+      <Filter>Source\SimpleShooter</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SimpleShooter\ShooterCharacter.h">
+      <Filter>Source\SimpleShooter</Filter>
+    </ClInclude>
     <None Include="..\..\Source\SimpleShooter\SimpleShooter.Build.cs">
       <Filter>Source\SimpleShooter</Filter>
     </None>
